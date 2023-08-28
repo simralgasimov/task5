@@ -53,7 +53,10 @@
 
 .box {
   display: flex;
+  /* padding: 29px; */
+
   justify-content: space-between;
+  background-color: yellow;
 }
 
 .box h1 {
